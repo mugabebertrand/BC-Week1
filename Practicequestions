@@ -1,0 +1,16 @@
+
+QUESTIONS:
+
+o	"What is the primary difference between a static and dynamic website?"
+o	"List 3 common tasks of a frontend developer."
+o	"List 3 common tasks of a backend developer."
+o	"Briefly describe one stage of the SDLC in your own words."
+o	"What is the purpose of HTML, CSS, and JavaScript in web development?"
+abc
+1. A static website shows the same page to everyone, while a dynamic changes its content based on what user does.
+2. Making the website work well on all devices, writing the code for the website and make the webside quick loaded
+3. Writing and managing the code that runs on the server, handling the data stored, and make safe connections with other
+  software
+4. The testing phase. When we check the software to find errors and make sure it works the way it should
+5. HTML builds the basic parts of the page, CSS makes it look nice, and JavaScript makes the page interactive and easy to
+   to use
